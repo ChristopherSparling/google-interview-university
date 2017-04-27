@@ -12,7 +12,6 @@
 - [Follow Along with Me](#follow-along-with-me)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Google](#about-google)
-- [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
@@ -115,12 +114,6 @@ Print out a "[future Googler](https://github.com/jwasham/google-interview-univer
     - [x] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
     - [x] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
 
-## About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
-are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
-from public sources and replacing the online course videos over time. I like using university lectures.
-
 ## Interview Process & General Interview Prep
 
 - [x] Videos:
@@ -133,18 +126,18 @@ from public sources and replacing the online course videos over time. I like usi
     - [x] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
     - [x] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
-- [ ] Additional (not suggested by Google but I added):
-    - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-    - [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
-    - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-    - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
-    - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [ ] Additional
+    - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4) *Includes useful external links*
+    - [x] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
+    - [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+    - [x] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
+    - [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
     - [ ] Cracking The Coding Interview Set 1:
-        - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-        - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+        - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) *Quite long with no subtitles, watch at a later date*
+        - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
     - [ ] How to Get a Job at the Big 4:
-        - [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-    - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
+        - [] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+    - [x] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 
 
 ## Prerequisite Knowledge
@@ -162,26 +155,18 @@ You need to be very comfortable in the language, and be knowledgeable. Read more
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-- [ ] **How computers process a program:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [x] **How computers process a program:**
+    - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
-- [ ] **How floating point numbers are stored:**
-    - [ ] simple 8-bit: [Fractions in binary? (video)](http://math.stackexchange.com/questions/301435/fractions-in-binary)
-    - [ ] 32 bit: [Representation of Floating Point Numbers - 1 (video)](https://www.youtube.com/watch?v=ji3SfClm8TU)
-    - [ ] 64 bit: [IEEE754 32-bit floating point binary (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
+- [x] **How floating point numbers are stored:**
+    - [x] simple 8-bit: [Fractions in binary? (video)](http://math.stackexchange.com/questions/301435/fractions-in-binary)
+    - [x] 32 bit: [Representation of Floating Point Numbers - 1 (video)](https://www.youtube.com/watch?v=ji3SfClm8TU)
+    - [x] 64 bit: [IEEE754 32-bit floating point binary (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
 
 - [ ] **Computer Arch Intro:**
-    (first video only - interesting but not required) [Introduction and Basics - Carnegie Mellon - Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1)
-
-- [ ] **C**
-    - [ ] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
-    - [ ] K&R C book (ANSI C)
-    - [ ] [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
-    - [ ] GDB:
-        - https://www.youtube.com/watch?v=USPvePv1uzE
-        - https://www.youtube.com/watch?v=y5JmQItfFck
-      - [Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
+    - [ ] [Introduction and Basics - Carnegie Mellon - Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1)
+    	- Moderately interesting, but video is 2 hours long
 - [ ] **C++**
     - [ ] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
     - [ ] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
