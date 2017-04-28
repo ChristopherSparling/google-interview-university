@@ -168,24 +168,23 @@ You'll see some C, C++, and Python learning included below, because I'm learning
     - [ ] [Introduction and Basics - Carnegie Mellon - Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1)
     	- Moderately interesting, but video is 2 hours long
 - [ ] **C++**
-    - [ ] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
-    - [ ] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
-    - [ ] basics
-    - [ ] pointers
-    - [ ] functions
-    - [ ] references
-    - [ ] templates
+    - [x] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
+    - [x] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
+    - [x] basics
+    - [x] pointers
+    - [x] functions
+    - [ ] references *Still unsure, will reference (haha) C++ textbook*
+    - [x] templates *Mostly understand, need to implement a queue/stack in one*
     - [ ] compilation
     - [ ] scope & linkage
     - [ ] namespaces
     - [ ] OOP
     - [ ] STL
     - [ ] [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
-    - [ ] [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik)
-    - [ ] [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-        - [ ] Google uses clang-format (there is a command line "style" argument: -style=google)
+    - [ ] [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik) *Useful, but beyond my current knowledge, return when more versed*
+    - [ ] [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) *Too dense to be important at the moment*
     - [ ] [Efficiency with Algorithms, Performance with Data Structures (video)](https://youtu.be/fHNmRkzxHWs)
-    - [ ] [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+    - [x] [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
 
 - [ ] **Python**
     - [ ] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
